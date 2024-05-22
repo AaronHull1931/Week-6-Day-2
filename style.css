@@ -1,0 +1,20 @@
+.box {
+    display: flex;
+    justify-content: space-around;
+    width: 100px;
+    height: 100px;
+    background-color: #ddd;
+    border: 2px solid #000;
+    border-radius: 2px;
+    display: inline-block;
+    margin: 5px;
+    
+}
+
+.darkMode {
+    background-color: #111;
+}
+
+.container {
+    width: 515px;
+}
